@@ -1,23 +1,23 @@
 # People.co Home Page
 
-This repository contains the code for the People.co home page, built using Bootstrap. The design incorporates the use of Bootstrap's flex utilities along with some inline CSS for additional styling.
+This repository contains the code for the People.co home page, designed using Bootstrap. The design was taken from Figma and implemented with a combination of Bootstrap's flex utilities and some inline CSS.
 
 ## Project Overview
 
-The goal of this project was to create a responsive and modern home page for People.co using the Bootstrap framework. The page layout is structured using Bootstrap's grid system and flexbox, ensuring a consistent and flexible design across various devices.
-
-## Technologies Used
-
-- **Bootstrap 5:** For responsive design and pre-built components.
-- **HTML5:** Markup language used to structure the page.
-- **CSS3:** Styling the page with inline CSS and Bootstrap's utility classes.
-- **Flexbox:** For flexible layouts and alignment.
+The People.co home page is a responsive web page designed to replicate the layout and style from a Figma design. The implementation leverages Bootstrap for responsive grid and flexbox layout, along with custom inline CSS for specific styling requirements.
 
 ## Features
 
-- **Responsive Design:** The page is fully responsive, adjusting to different screen sizes.
-- **Flexbox Layouts:** Utilized flexbox for easy alignment and spacing of elements.
-- **Custom Inline Styles:** Inline CSS is used for quick customizations.
+- **Responsive Design:** Built with Bootstrap to ensure compatibility across various devices and screen sizes.
+- **Flexbox Layout:** Utilizes Bootstrap's flex utilities to create flexible and dynamic layouts.
+- **Custom Styling:** Some inline CSS is used to meet specific design requirements.
+
+## Technologies Used
+
+- **Bootstrap 5**
+- **HTML5**
+- **CSS3**
+- **Figma** (Design Reference)
 
 ## How to Use
 
