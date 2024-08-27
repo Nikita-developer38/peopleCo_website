@@ -24,3 +24,11 @@ The goal of this project was to create a responsive and modern home page for Peo
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Nikita-developer38/peopleCo_website
+
+
+## Output
+
+Here is a preview of the People.co home page:
+
+![People.co Home Page](peopleCo_homePage.png)
+
